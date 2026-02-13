@@ -7,7 +7,7 @@ This project contains an n8n workflow that turns your Instagram Direct Messages 
 - Receive Instagram DMs via Meta Webhooks and the Instagram Messaging API.[web:54]
 - Generate AI responses using a DeepSeek chat model through n8n’s AI Agent node.[web:46][web:51]
 - Maintain short-term conversation context per user with a memory buffer.
-- Send responses back to the original Instagram sender using the Graph API.[web:54]
+- Send responses back to the original Instagram sender using the Graph API. [web:54]
 - Log both the received message and the AI response into a Notion database for tracking and analysis.[web:46][web:48]
 
 ## Architecture
