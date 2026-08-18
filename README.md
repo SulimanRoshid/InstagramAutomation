@@ -1,4 +1,4 @@
-# Instagram DM AI Agent with n8n, DeepSeek, and Notion
+## Instagram DM AI Agent with n8n, DeepSeek, and Notion
  
 This project contains an n8n workflow that turns your Instagram Direct Messages into an AI-powered chat experience. Incoming DMs are received via a Meta webhook, processed by a DeepSeek-powered AI agent, sent back to the user on Instagram, and optionally logged to a Notion database for later review.[web:46][web:54]
 
